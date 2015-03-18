@@ -1,6 +1,6 @@
 #Getting and Cleaning Data (Course Project)
 
-This repository hosts the R code for the Data Science's track course "Getting and Cleaning data" (Coursera)
+This repository hosts the 'R' code for the Data Science's track course "Getting and Cleaning data" (Coursera)
 
 
 #Files
